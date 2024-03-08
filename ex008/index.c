@@ -21,5 +21,15 @@ int main()
     
     printf("%i",media);
 
+    if(media >= 7){
+        printf("\nAprovado!!");
+    }
+    if(media < 7){
+        printf("\nReprovado");
+    }
+    if(media == 10){
+        printf("\nAprovado com distinção");
+    }
+
     return 0;
 }
