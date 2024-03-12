@@ -1,4 +1,4 @@
-###Atividades em C sobre Condicional e Seleções.
+# Atividades em C sobre Condicional e Seleções.
 
 Atividades da faculdade sobre condicionais e seleções.
 
